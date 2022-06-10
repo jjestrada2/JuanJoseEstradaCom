@@ -6,7 +6,7 @@ export const experienceData = [
         startYear: '2018',
         endYear: '2019'
     },
-    {
+    /*{
         id: 2,
         company: 'Vehement Capital Partners',
         jobtitle: 'Backend Developer',
@@ -20,4 +20,5 @@ export const experienceData = [
         startYear: '2020',
         endYear: 'Present'
     },
+*/
 ]

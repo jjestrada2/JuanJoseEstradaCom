@@ -17,11 +17,11 @@ export const servicesData = [
         title: 'Content Writing',
         icon: <BiPencil /> 
     },
-    {
+    /*{
         id: 3,
         title: 'Email Marketing',
         icon: <AiOutlineMail />
-    },
+    },*/
     // {
     //     id: 4,
     //     title: 'Internet Research',
@@ -38,7 +38,7 @@ export const servicesData = [
         title: 'Web Design',
         icon: <BsCodeSlash />
     },
-    {
+   /* {
         id: 7,
         title: 'Photography',
         icon: <FaCameraRetro />
@@ -52,13 +52,13 @@ export const servicesData = [
         id: 9,
         title: 'Video Editing',
         icon: <FaVideo />
-    },
+    },*/
     // {
     //     id: 10,
     //     title: 'Data Entry', 
     //     icon: <BsClipboardData />
     // },
-    {
+    /*{
         id: 11,
         title: 'Ebook Writing',
         icon: <FaTabletAlt />
@@ -67,7 +67,7 @@ export const servicesData = [
     //     id: 12,
     //     title: 'Audio Transcription',
     //     icon: <AiFillAudio />
-    // },
+    // },*/
     {
         id: 13,
         title: 'Blog Posting',

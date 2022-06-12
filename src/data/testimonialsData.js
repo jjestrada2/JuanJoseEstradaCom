@@ -2,8 +2,8 @@
 import girl1 from '../assets/svg/testimonials/girl1.svg'
 import girl2 from '../assets/svg/testimonials/girl2.svg'
 import girl3 from '../assets/svg/testimonials/girl3.svg'
-import boy1 from '../assets/svg/testimonials/boy1.svg'
-import boy2 from '../assets/svg/testimonials/boy2.svg'
+import boy1 from '../assets/svg/testimonials/boy1.webp'
+import navire from '../assets/svg/testimonials/navire.png'
 import boy3 from '../assets/svg/testimonials/boy3.svg'
 
 
@@ -11,22 +11,22 @@ import boy3 from '../assets/svg/testimonials/boy3.svg'
 export const testimonialsData = [
     {
         id: 1,
-        name: 'Chandler Bing',
-        title: 'Transponster',
-        text: "Building my own portfolio could've never been easier than this. The only areas I'm good at are Math, Jokes and Dance.",
-        image: boy2
+        name: '@zulu.fitness_',
+        title: 'Mateo Zuluaga',
+        text: "The last month I start my online personal training service, I told Juan I want a modern website but simple, and he just build exactly what I want, I LOVED the website!",
+        image: boy1
     },
     {
         id: 2,
-        name: 'Monica Geller',
-        title: 'Head Chef',
-        text: "This is the only thing that I didn't have to spend time to sort out. It's tidy all by itself.",
-        image: girl2
-    },
+        name: '@navire_clothing',
+        title: 'Felipe Barco',
+        text: "I needed a landing page for a marketing campaign for my entrepreneurship, Juan made the job in a few hours a really good job👍🏻",
+        image: navire
+    },/*
     {
         id: 3,
-        name: 'Phoebe Buffay',
-        title: 'Massuese',
+        name: '',
+        title: '',
         text: "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
         image: girl1
     },
@@ -50,6 +50,6 @@ export const testimonialsData = [
         title: 'Paleontologist',
         text: "Be it 'Rocks' or 'Bones', you need a website to display it. This is it. Great work guys !",
         image: boy3
-    }
+    }*/
 ]
 

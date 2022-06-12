@@ -1,5 +1,5 @@
 export const blogData = [
-    {
+    /*{
         id: 1,
         title: 'SCRAPING BILLBOARD AND IMDB USING PYTHON SELENIUM',
         description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
@@ -14,7 +14,7 @@ export const blogData = [
         date: 'Aug 11, 2020',
         image: 'https://1.bp.blogspot.com/-OW7jX57tea4/XvnGxuEOslI/AAAAAAAABW0/R8lVT1AXDSwnvE0EGA9Ra49-LDm1ACwDgCK4BGAsYHg/s1216/wttr1.png',
         url: 'https://hackzism.blogspot.com/2020/06/check-weather-from-terminal-using-wttrin.html'
-    },
+    },/*
     {
         id: 3,
         title: 'BEING ANONYMOUS: A BEGINNERS GUIDE',
@@ -38,7 +38,7 @@ export const blogData = [
         date: 'Oct 1, 2020',
         image: 'https://1.bp.blogspot.com/-jhdtUBIRD_s/XxLFKQuRz9I/AAAAAAAABsM/mClfbfDFKvsUwA7Wyi25Lzu3DEmL2lxrACNcBGAsYHQ/s1919/gta.jpg',
         url: 'https://hackzism.blogspot.com/2020/07/how-can-you-get-michaels-or-trevors.html'
-    },
+    },*/
 ]
 
 
